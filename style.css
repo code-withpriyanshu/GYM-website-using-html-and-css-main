@@ -1,0 +1,93 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: url('/pictures/pexels-scott-ng28054.jpg');
+    background-size: 100% 100vh;
+    
+
+}
+
+.navbar{
+    /* background-color: black; */
+    overflow: auto;
+    border-radius: 15px;
+    
+}
+.element{
+    float: left;
+    padding: 15px;
+    font-size: 17px;
+    text-align: center;
+    color: white;
+    font-family: Helvetica;
+    left: 10px;
+}
+a{
+    color:  white;
+}
+.serchbutton{
+    float: right;
+    color: black;
+    padding:  15px 49px;
+    
+
+}
+.serchbutton input{
+    border-radius: 18px;
+    transition-duration: 0.4s;
+   cursor: pointer;
+}
+.buttons{
+    padding-left: 39%;
+    transition-duration: 0.4s;
+   cursor: pointer;
+}
+.home:hover{
+ background-color: rgb(50, 50, 50);
+}
+.about:hover{
+ background-color: rgb(50, 50, 50);
+}
+.services:hover{
+ background-color: rgb(50, 50, 50);
+}
+.contactus:hover{
+ background-color: rgb(50, 50, 50);
+}
+.btn{
+    background-color: rgb(18, 28, 37);
+    color: white;
+    border-radius: 3px;
+    margin: 0px 10px;
+}
+.img{
+    float: left;
+}
+img{
+    
+    margin:  5px 11px -4px 61px;
+    width: 35px;  
+    height: 20px;
+}
+p{
+    margin: 0px 46px;
+    color: white;
+}
+.pallet{
+    border: 3px solid white;
+    border-radius: 10px;
+    margin: 161px 911px 19px 191px;
+}
+.textp{
+    font-family: Brush Script MT;
+    font-size: 30px;
+    color:  white;
+    margin: 17px 3px 18px 60px;
+}
+.submit{
+    margin: 12px 6px 14px 171px;
+    /* background-color: rgb(33, 34, 36); */
+}
+input{
+    margin: 12px -8px 12px 123px;
+}
